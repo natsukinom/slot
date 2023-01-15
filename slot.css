@@ -1,0 +1,20 @@
+.frame{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.i0{
+    background-color: aqua;
+}
+.i1{
+    background-color:blue;
+}
+.i2{
+    background-color: blueviolet;
+}
+
+.slot{
+    position: relative;
+    display: inline-block;
+    width: 100px;
+}

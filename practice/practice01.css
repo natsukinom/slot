@@ -1,0 +1,11 @@
+.container{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+}
+
+.stop{
+    position: relative;
+    display: inline-block;
+    width: 100px;
+}
